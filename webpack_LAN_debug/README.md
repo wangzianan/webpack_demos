@@ -1,18 +1,12 @@
-# webpack_demo_1
+# 使用方法
 
-> A Vue.js project
-
-## Build Setup
+## 构建步骤
 
 ``` bash
-# install dependencies
+# 安装依赖
 npm install
 
-# serve with hot reload at localhost:8080
+# 调试
 npm run dev
 
-# build for production with minification
-npm run build
-```
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
